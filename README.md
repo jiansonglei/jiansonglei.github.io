@@ -5,7 +5,7 @@ You can use the [editor on GitHub](https://github.com/jiansonglei/jiansonglei.gi
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
 ### Publication
-[IJCAI 17](./publication/17IJCAI_CDE.pdf)
+- 17‘IJCAI_Embedding-based Representation of Categorical Data by Hierarchical Value Coupling Learning [pdf](./publication/17IJCAI_CDE.pdf)[code](https://github.com/jiansonglei/CDE)
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
