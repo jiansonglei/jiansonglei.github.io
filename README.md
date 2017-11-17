@@ -1,8 +1,6 @@
 # Songlei Jian's Home Page
 
-You can use the [editor on GitHub](https://github.com/jiansonglei/jiansonglei.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+I am a joint Ph.D. student with the Advanced Analytics Institute, University of Technology Sydney (UTS) and the College of Computer, National University of Defense Technology (NUDT). 
 
 ## **Research Interests**
 My research interests include machine learning, representation learning, complex network, recommender systems.
