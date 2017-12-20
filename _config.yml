@@ -1,3 +1,5 @@
 theme: jekyll-theme-slate
 title: Songlei Jian's Home Page
 description: Learning, Representation and Networking
+plugins:
+  - jekyll-seo-tag
