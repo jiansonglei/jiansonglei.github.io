@@ -1,5 +1,9 @@
 theme: jekyll-theme-slate
 title: Songlei Jian's Home Page
+url: https://jiansonglei.github.io/
+author: Songlei Jian 
+description: Jian Songlei 
 description: Learning, Representation and Networking
 plugins:
   - jekyll-seo-tag
+  
