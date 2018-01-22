@@ -6,4 +6,5 @@ description: Jian Songlei
 description: Learning, Representation and Networking
 plugins:
   - jekyll-seo-tag
+  - jekyll-sitemap
   
