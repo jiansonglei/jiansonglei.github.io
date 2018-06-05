@@ -1,5 +1,5 @@
 ## **Songlei Jian**
-I am a joint Ph.D. student with the Advanced Analytics Institute, University of Technology Sydney (UTS) and the College of Computer, National University of Defense Technology (NUDT). 
+I am a joint Ph.D. student with the Advanced Analytics Institute, University of Technology Sydney (UTS) and the College of Computer, National University of Defense Technology (NUDT). ![touxiang](touxiang.png)
 ## **Research Interests**
 My research interests include machine learning, data mining, representation learning, network embedding, recommender systems.
 ## **Publications**
