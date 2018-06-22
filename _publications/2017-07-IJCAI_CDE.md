@@ -6,10 +6,17 @@ excerpt: 'This paper is about the categorical data embedding.'
 date: 2017-07
 venue: 'IJCAI 2017'
 paperurl: 'http://academicpages.github.io/files/17IJCAI_CDE.pdf'
-citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
+citation: 'Jian, S., Cao, L., Pang, G., Lu, K., & Gao, H. (1937). Embedding-based representation of categorical data by hierarchical value coupling learning. In Proc. 7th Int. Joint Conf. Artif. Intell. (pp. 1937-1943).'
 ---
 This paper is about the categorical data embedding.
 
 [Download paper here](http://academicpages.github.io/files/17IJCAI_CDE.pdf)
 
 Recommended citation: 
+@inproceedings{jian1937embedding,
+  title={Embedding-based representation of categorical data by hierarchical value coupling learning},
+  author={Jian, Songlei and Cao, Longbing and Pang, Guansong and Lu, Kai and Gao, Hang},
+  booktitle={IJCAI},
+  pages={1937--1943},
+  year={2017}
+}
