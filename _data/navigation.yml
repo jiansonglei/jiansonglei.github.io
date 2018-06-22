@@ -5,9 +5,6 @@ main:
 
   - title: "Talks"
     url: /talks/    
-        
-  - title: "Blog Posts"
-    url: /year-archive/
     
   - title: "CV"
     url: /cv/
