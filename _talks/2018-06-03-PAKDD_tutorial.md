@@ -3,7 +3,7 @@ title: "Non-IID Recommender Systems in Practice with Modern AI Techniques "
 collection: talks
 type: "Tutorial"
 permalink: /talks/2018-06-03-PAKDD_tutorial
-venue: "AAAI"
+venue: "PAKDD"
 date: 2018-02-03
 location: "Melbourne, Australia"
 ---
