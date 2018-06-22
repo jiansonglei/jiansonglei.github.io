@@ -2,7 +2,7 @@
 title: "When Advanced Machine Learning Meets Intelligent Recommender Systems"
 collection: talks
 type: "Tutorial"
-permalink: /talks/2013-03-01-tutorial-1
+permalink: /talks/2018-02-03-AAAI_tutorial
 venue: "AAAI"
 date: 2018-02-03
 location: "New Orleans, USA"
