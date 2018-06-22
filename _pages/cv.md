@@ -12,8 +12,8 @@ redirect_from:
 Education
 ======
 * B.S. in College of Computer, National University of Defense Technology, 2013
-* M.S. in College of Computer, National University of Defense Technology, 2015 (In advance)
-* Visiting Advanced Analytics Institute, University of Technology Sydney, 2016-2018
+* M.S. in College of Computer, National University of Defense Technology, 2015 (To pursue doctoral study in advance)
+* Visiting Advanced Analytics Institute, University of Technology Sydney, 2016.9 - 2018.9
 * Ph.D in College of Computer, National University of Defense Technology, 2019 (expected)
 
 Activities
