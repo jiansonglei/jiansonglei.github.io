@@ -12,6 +12,11 @@ I am a joint Ph.D. student with the Advanced Analytics Institute, University of 
 
 My research interests include machine learning, representation learning, data mining, recommender systems, network representation.
 
+<<<<<<< HEAD
 # News:
+=======
+News
+====
+>>>>>>> d6cfde03af87d443d36bc01839998ffa9d4a41cd
 
 
