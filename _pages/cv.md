@@ -24,6 +24,7 @@ Activities
 * Reviewer
   * IEEE Intelligent Systems
   * International Journal of Data Science and Analytics (JDSA)
+* External Reviewer
   * IJCAI 2018
   * ICDM 2018
 
