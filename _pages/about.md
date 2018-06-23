@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a joint Ph.D. student with the Advanced Analytics Institute, University of Technology Sydney (UTS) and the College of Computer, National University of Defense Technology (NUDT). 
+I am a Ph.D. student with the College of Computer, National University of Defense Technology (NUDT) and I am visiting the Advanced Analytics Institute, University of Technology Sydney (UTS) now. 
 
 Research
 ========
