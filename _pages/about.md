@@ -17,7 +17,8 @@ My research interests include machine learning, representation learning, data mi
 
 News
 ====
-Our paper on categorical data representation was accepted by TKDE.
+* Our paper on categorical data representation was accepted by TKDE.
+* We presented tutorial on PAKDD 2018 at Melbourne, Australia.
 
 
 
