@@ -17,14 +17,14 @@ My research interests include machine learning, representation learning, data mi
 
 News
 ====
-<<<<<<< HEAD
+
 Two papers on network representation and recommender system have been accepted by AAAI 2019.
 Our paper on categorical data representation was accepted by TKDE.
 =======
 * Two papers on network representation and recommender system have been accepted by AAAI 2019 
 * Our paper on categorical data representation was accepted by TKDE.
 * We presented tutorial on PAKDD 2018 at Melbourne, Australia.
->>>>>>> ab1fdf4a42a39f463ebed7103066d0788676cd8c
+
 
 
 
