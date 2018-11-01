@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a Ph.D. student with the College of Computer, National University of Defense Technology (NUDT) and I am visiting the Advanced Analytics Institute, University of Technology Sydney (UTS) now. 
+I am a Ph.D. student with the College of Computer, National University of Defense Technology (NUDT) and I was visiting the Advanced Analytics Institute, University of Technology Sydney (UTS) during 09/2016-09/2018. 
 
 Research
 ========
