@@ -10,7 +10,7 @@ redirect_from:
 
 {% include base_path %}
 
-Activities
+Services
 ======
 * PC Members
   * AAAI 2019
