@@ -13,6 +13,8 @@ author_profile: true
 * Journal papers
   * **Jian, Songlei**, Guansong Pang, Longbing Cao, Kai Lu and Hang Gao. "Unsupervised Coupled Metric Similarity for Non-IID Categorical Data." IEEE Transactions on Knowledge and Data Engineering (2018). [[Paper]](http://jiansonglei.github.io/files/18TKDE_CMS.pdf) [[Appendix]](http://jiansonglei.github.io/files/18CMS_APPENDIX.pdf)[[Code]](https://github.com/jiansonglei/CMS)
   * **Jian, Songlei,** Longbing Cao, Kai Lu, and Hang Gao. "CURE: Flexible Categorical Data Representation by Hierarchical Coupling Learning." IEEE Transactions on Knowledge and Data Engineering (2018). [[Paper]](http://jiansonglei.github.io/files/18TKDE_CURE.pdf)[[CDE Code]](https://github.com/jiansonglei/CDE)[[COSH Code]](https://github.com/jiansonglei/COSH)
+  * Hu, Liang, Qingkui Chen, Haiyan Zhao, **Songlei Jian**, Longbing Cao, and Jian Cao. "Neural Cross-Session Filtering: Next-Item Prediction Under Intra-and Inter-Session Context." IEEE Intelligent Systems (2018).
+
 * Conference papers
   * **Jian, Songlei**, Liang Hu, Longbing Cao, Kai Lu and Hang Gao. "Evolutionarily Learning Multi-aspect Interactions and Influences from Network Structure and Node Content." AAAI 2019. [[**Slides**]](http://jiansonglei.github.io/files/AAAI19slides.pptx) [[Paper]](http://jiansonglei.github.io/files/19AAAI_MAIECS.pdf) [[Code]](https://github.com/jiansonglei/MAI-ECS)
   * **Jian, Songlei**, Liang Hu, Longbing Cao, and Kai Lu. "Metric-based Auto-Instructor for Learning Mixed Data Representation." AAAI, 2018. [[Paper]](http://jiansonglei.github.io/files/18AAAI_MAI.pdf) [[Code]](https://github.com/jiansonglei/MAI)
