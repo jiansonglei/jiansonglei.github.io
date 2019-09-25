@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a Ph.D. student with the College of Computer, National University of Defense Technology (NUDT). I was visiting the Advanced Analytics Institute, University of Technology Sydney (UTS) during 09/2016-09/2018 and working with Professor Longbing Cao. I pursued my doctoral study in advance at NUDT in 2015 and I got my Bachalor Degree at NUDT in 2013. 
+I am a Research Assistant with the College of Computer, National University of Defense Technology (NUDT). I was visiting the Advanced Analytics Institute, University of Technology Sydney (UTS) during 09/2016-09/2018 and working with Professor Longbing Cao. I pursued my doctoral study in advance at NUDT in 2015 and I got my Doctor Degree at NUDT in 06/2019. 
 
 Research
 ========
