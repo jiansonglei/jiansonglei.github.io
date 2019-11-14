@@ -13,10 +13,11 @@ I am a Research Assistant with the College of Computer, National University of D
 Research
 ========
 
-My research interests include machine learning, representation learning, data mining, recommender systems, network representation.
+My research interests include machine learning, representation learning, data mining, network representation, recommender systems, .
 
 News
 =======
+* One paper on representation learning for heterogeneous domains have been accepted by AAAI 2020.
 * Two papers on network representation and recommender system have been accepted by AAAI 2019.
 * Our paper on categorical data representation was accepted by TKDE.
 * We presented tutorial on PAKDD 2018 at Melbourne, Australia.
