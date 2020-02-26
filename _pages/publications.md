@@ -16,7 +16,7 @@ author_profile: true
   * Hu, Liang, Qingkui Chen, Haiyan Zhao, **Songlei Jian**, Longbing Cao, and Jian Cao. "Neural Cross-Session Filtering: Next-Item Prediction Under Intra-and Inter-Session Context." IEEE Intelligent Systems (2018).
 
 * Conference papers
-  * **Jian, Songlei**, Liang Hu, Longbing Cao, Kai Lu and Hang Gao. "Representation Learning with Multiple Lipschitz-constrained Alignments on Partially-labeled Cross-domain Data." AAAI 2020. [[Paper]](http://jiansonglei.github.io/files/20AAAI_MULAN.pdf) 
+  * **Jian, Songlei**, Liang Hu, Longbing Cao and Kai Lu. "Representation Learning with Multiple Lipschitz-constrained Alignments on Partially-labeled Cross-domain Data." AAAI 2020. [[Paper]](http://jiansonglei.github.io/files/20AAAI_MULAN.pdf) 
   * **Jian, Songlei**, Liang Hu, Longbing Cao, Kai Lu and Hang Gao. "Evolutionarily Learning Multi-aspect Interactions and Influences from Network Structure and Node Content." AAAI 2019. [[**Slides**]](http://jiansonglei.github.io/files/AAAI19slides.pptx) [[Paper]](http://jiansonglei.github.io/files/19AAAI_MAIECS.pdf) [[Code]](https://github.com/jiansonglei/MAI-ECS)
   * **Jian, Songlei**, Liang Hu, Longbing Cao, and Kai Lu. "Metric-based Auto-Instructor for Learning Mixed Data Representation." AAAI, 2018. [[Paper]](http://jiansonglei.github.io/files/18AAAI_MAI.pdf) [[Code]](https://github.com/jiansonglei/MAI)
   * **Jian, Songlei**, Longbing Cao, Guansong Pang, Kai Lu, and Hang Gao. "Embedding-based representation of categorical data by hierarchical value coupling learning." IJCAI, 2017. [[Paper]](http://jiansonglei.github.io/files/17IJCAI_CDE.pdf) [[Code]](https://github.com/jiansonglei/CDE)
