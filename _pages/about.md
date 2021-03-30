@@ -17,6 +17,7 @@ My research interests include machine learning, representation learning, outlier
 
 News
 =======
+* One paper on few-shot learning has been accepted by CVPR 2021.
 * One paper on outlier interpretation  has been accepted by WWW 2021.
 * One paper on representation learning for heterogeneous domains has been accepted by AAAI 2020.
 * Two papers on network representation and recommender system have been accepted by AAAI 2019.
