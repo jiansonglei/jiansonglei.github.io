@@ -13,10 +13,12 @@ I am an Assistant Research Fellow with the College of Computer, National Univers
 Research
 ========
 
-My research interests include machine learning, representation learning, outlier detection, network representation,  and mulitmodal learning .
+My research interests include machine learning, representation learning, outlier detection, network/graph representation,  and mulitmodal learning .
 
 News
 =======
+* One paper on graph representation has been accepted by TKDE.
+* One paper on network intrusion detection system has been accepted by Computer&Security (Our first attempt of utilizing representation learning to solve the intrusion detection problem).
 * One paper on few-shot learning has been accepted by CVPR 2021.
 * One paper on outlier interpretation  has been accepted by WWW 2021.
 * One paper on representation learning for heterogeneous domains has been accepted by AAAI 2020.
