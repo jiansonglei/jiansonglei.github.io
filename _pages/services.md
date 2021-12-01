@@ -13,11 +13,14 @@ redirect_from:
 Services
 ======
 * PC Members
+  * AAAI 2022
+  * AAAI 2021
   * AAAI 2020
   * AAAI 2019
   * PAKDD 2018
   * IEEE DSC workshop on VAAL 2018
 * Reviewer
+  * IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI)
   * IEEE Transactions on Neural Networks and Learning Systems (TNNLS)
   * ACM Transactions on Multimedia Computing, Communications, and Applications (TOMM)
   * IEEE Intelligent Systems
