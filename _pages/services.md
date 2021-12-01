@@ -3,7 +3,7 @@
 
 layout: archive
 permalink: /services/
-author_profile: true
+author_profile: false
 redirect_from:
   - /resume
 ---
