@@ -13,10 +13,7 @@ redirect_from:
 Services
 ======
 * PC Members
-  * AAAI 2022
-  * AAAI 2021
-  * AAAI 2020
-  * AAAI 2019
+  * AAAI 2019-2022 
   * PAKDD 2018
   * IEEE DSC workshop on VAAL 2018
 * Reviewer
