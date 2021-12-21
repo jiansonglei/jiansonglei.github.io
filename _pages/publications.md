@@ -22,7 +22,7 @@ Graph Representation Learning
   * Hu, Liang, Qingkui Chen, Haiyan Zhao, **Songlei Jian**, Longbing Cao, and Jian Cao. "Neural Cross-Session Filtering: Next-Item Prediction Under Intra-and Inter-Session Context." IEEE Intelligent Systems (2018).
 
 * Conference papers
-   * Hongguang Zhang,  Piotr Koniusz, **Songlei Jian**, Hongdong Li, and Philip H. S. Torr. "Rethinking Class Relations: Absolute-relative Supervised and Unsupervised Few-shot Learning." CVPR 2021. [[Paper]](http://jiansonglei.github.io/files/21CVPR.pdf)  
+  * Hongguang Zhang,  Piotr Koniusz, **Songlei Jian**, Hongdong Li, and Philip H. S. Torr. "Rethinking Class Relations: Absolute-relative Supervised and Unsupervised Few-shot Learning." CVPR 2021. [[Paper]](http://jiansonglei.github.io/files/21CVPR.pdf)  
   * Hongzuo Xu,  Yijie Wang\*, **Songlei Jian\***, Zhenyu Huang, Yongjun Wang,  Ning Liu and Fei Li. "Beyond Outlier Detection: Outlier Interpretation  by Attention-Guided Triplet Deviation Network." WWW 2021. [[Paper]](http://jiansonglei.github.io/files/21WWW.pdf)  [[Code]](https://github.com/xuhongzuo/outlier-interpretation)
   * **Jian, Songlei**, Liang Hu, Longbing Cao and Kai Lu. "Representation Learning with Multiple Lipschitz-constrained Alignments on Partially-labeled Cross-domain Data." AAAI 2020.  [[Paper]](http://jiansonglei.github.io/files/20AAAI_MULAN.pdf)[Code]
   * **Jian, Songlei**, Liang Hu, Longbing Cao, Kai Lu and Hang Gao. "Evolutionarily Learning Multi-aspect Interactions and Influences from Network Structure and Node Content." AAAI 2019. [[**Slides**]](http://jiansonglei.github.io/files/AAAI19slides.pptx) [[Paper]](http://jiansonglei.github.io/files/19AAAI_MAIECS.pdf) [[Code]](https://github.com/jiansonglei/MAI-ECS)
