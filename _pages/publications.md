@@ -5,14 +5,15 @@ permalink: /publications/
 author_profile: false
 ---
 
-{% if author.googlescholar %}Hierarchical Adaptive Pooling by Capturing
-High-order Dependency for
-Graph Representation Learning
-
+{% if author.googlescholar %}
   You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
 {% endif %}
 
 {% include base_path %}
+
+{% for post in site.publications reversed %}
+  {% include archive-single.html %}
+{% endfor %}
 * Journal papers
   * Ning Liu, **Songlei Jian**, Dongsheng Li, Yiming Zhang, Zhiquan Lai and Hongzuo Xu. "Hierarchical Adaptive Pooling by Capturing High-order Dependency for Graph Representation Learning." IEEE Transactions on Knowledge and Data Engineering  (2021) (**CCF A**)[[Paper]](http://jiansonglei.github.io/files/HAP2021.pdf)
   * Wang, Wei$^{1}$, **Songlei Jian**$^{1}$\*, Yusong Tan\*, Qingbo Wu, and Chenlin Huang. "Representation Learning-based Network Intrusion Detection System by Capturing Explicit and Implicit Feature Interactions." ($^{1}$equal contribution) Computers & Security (2021) (**CCF B**) [[Paper]](http://jiansonglei.github.io/files/21comsec.pdf) 
