@@ -17,6 +17,7 @@ My research interests include machine learning, representation learning, outlier
 
 News
 =======
+* One paper on graph pooling has been accepted by CIKM 2022.
 * One paper on graph representation has been accepted by TKDE.
 * One paper on network intrusion detection system has been accepted by Computer&Security (Our first attempt of utilizing representation learning to solve the intrusion detection problem).
 * One paper on few-shot learning has been accepted by CVPR 2021.
