@@ -5,9 +5,7 @@ permalink: /publications/
 author_profile: false
 ---
 
-{% if author.googlescholar %}Hierarchical Adaptive Pooling by Capturing
-High-order Dependency for
-Graph Representation Learning
+{% if author.googlescholar %}
 
   You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
 {% endif %}
@@ -25,7 +23,7 @@ Graph Representation Learning
   * Ning Liu, **Songlei Jian**, Dongsheng Li, and Hongzuo Xu. "Unsupervised Hierarchical Graph Pooling via Substructure-Sensitive Mutual Information Maximization." CIKM 2022 (**CCF B**).[[Paper]](http://jiansonglei.github.io/files/22CIKM_SMIP.pdf)
   * Hongguang Zhang,  Piotr Koniusz, **Songlei Jian**, Hongdong Li, and Philip H. S. Torr. "Rethinking Class Relations: Absolute-relative Supervised and Unsupervised Few-shot Learning." CVPR 2021 (**CCF A**). [[Paper]](http://jiansonglei.github.io/files/21CVPR.pdf)  
   * Hongzuo Xu,  Yijie Wang\*, **Songlei Jian\***, Zhenyu Huang, Yongjun Wang,  Ning Liu and Fei Li. "Beyond Outlier Detection: Outlier Interpretation  by Attention-Guided Triplet Deviation Network." WWW 2021 (**CCF A**). [[Paper]](http://jiansonglei.github.io/files/21WWW.pdf)  [[Code]](https://github.com/xuhongzuo/outlier-interpretation)
-  * **Jian, Songlei**, Liang Hu, Longbing Cao and Kai Lu. "Representation Learning with Multiple Lipschitz-constrained Alignments on Partially-labeled Cross-domain Data." AAAI 2020.  [[Paper]](http://jiansonglei.github.io/files/20AAAI_MULAN.pdf)[Code]
+  * **Jian, Songlei**, Liang Hu, Longbing Cao and Kai Lu. "Representation Learning with Multiple Lipschitz-constrained Alignments on Partially-labeled Cross-domain Data." AAAI 2020 (**CCF A**).  [[Paper]](http://jiansonglei.github.io/files/20AAAI_MULAN.pdf)[Code]
   * **Jian, Songlei**, Liang Hu, Longbing Cao, Kai Lu and Hang Gao. "Evolutionarily Learning Multi-aspect Interactions and Influences from Network Structure and Node Content." AAAI 2019 (**CCF A**). [[**Slides**]](http://jiansonglei.github.io/files/AAAI19slides.pptx) [[Paper]](http://jiansonglei.github.io/files/19AAAI_MAIECS.pdf) [[Code]](https://github.com/jiansonglei/MAI-ECS)
   * **Jian, Songlei**, Liang Hu, Longbing Cao, and Kai Lu. "Metric-based Auto-Instructor for Learning Mixed Data Representation." AAAI, 2018 (**CCF A**). [[Paper]](http://jiansonglei.github.io/files/18AAAI_MAI.pdf) [[Code]](https://github.com/jiansonglei/MAI)
   * **Jian, Songlei**, Longbing Cao, Guansong Pang, Kai Lu, and Hang Gao. "Embedding-based representation of categorical data by hierarchical value coupling learning." IJCAI 2017 (**CCF A**). [[Paper]](http://jiansonglei.github.io/files/17IJCAI_CDE.pdf) [[Code]](https://github.com/jiansonglei/CDE)
