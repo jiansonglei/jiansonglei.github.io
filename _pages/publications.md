@@ -12,7 +12,7 @@ author_profile: false
 
 {% include base_path %}
 * Journal papers
-  * Ning Liu, **Songlei Jian**, Dongsheng Li, Yiming Zhang, Zhiquan Lai and Hongzuo Xu. "Hierarchical Adaptive Pooling by Capturing High-order Dependency for Graph Representation Learning." IEEE Transactions on Knowledge and Data Engineering  (2021) (**CCF A**) [[Paper]](http://jiansonglei.github.io/files/HAP2021.pdf)
+  * Ning Liu, **Songlei Jian**\*, Dongsheng Li\*, Yiming Zhang, Zhiquan Lai and Hongzuo Xu. "Hierarchical Adaptive Pooling by Capturing High-order Dependency for Graph Representation Learning." IEEE Transactions on Knowledge and Data Engineering  (2021) (**CCF A**) [[Paper]](http://jiansonglei.github.io/files/HAP2021.pdf)
   * Wang, Wei$^{1}$, **Songlei Jian**$^{1}$\*, Yusong Tan\*, Qingbo Wu, and Chenlin Huang. "Representation Learning-based Network Intrusion Detection System by Capturing Explicit and Implicit Feature Interactions." ($^{1}$equal contribution) Computers & Security (2021) (**CCF B**) [[Paper]](http://jiansonglei.github.io/files/21comsec.pdf) 
   * **Jian, Songlei**, Longbing Cao, Kai Lu and Hang Gao. "Unsupervised Coupled Metric Similarity for Non-IID Categorical Data." IEEE Transactions on Knowledge and Data Engineering (2018) (**CCF A**). [[Paper]](http://jiansonglei.github.io/files/18TKDE_CMS.pdf) [[Appendix]](http://jiansonglei.github.io/files/18CMS_APPENDIX.pdf)[[Code]](https://github.com/jiansonglei/CMS)
   * **Jian, Songlei,** Kai Lu, "复杂异构数据的表征学习综述"(Survey on Representation Learning of Complex Heterogeneous Data). 计算机科学(Computer Science) (2020)[[Paper]](http://jiansonglei.github.io/files/survey.pdf) (**CCF B中文**)
