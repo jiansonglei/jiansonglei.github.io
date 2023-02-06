@@ -8,12 +8,12 @@ redirect_from:
   - /about.html
 ---
 
-I am an Assistant Research Fellow with the College of Computer, National University of Defense Technology (NUDT). I was visiting the Advanced Analytics Institute, University of Technology Sydney (UTS) during 09/2016-09/2018 and working with Professor Longbing Cao. I got my PhD at NUDT in 06/2019 and my bachelor's degree at NUDT in 06/2013. 
+I am an Associate Research Fellow with the College of Computer, National University of Defense Technology (NUDT). I was visiting the Advanced Analytics Institute, University of Technology Sydney (UTS) during 09/2016-09/2018 and working with Professor Longbing Cao. I got my PhD at NUDT in 06/2019 and my bachelor's degree at NUDT in 06/2013. 
 
 Research
 ========
 
-My research interests include machine learning, representation learning, outlier detection, network/graph representation,  and mulitmodal learning.
+My research interests include machine learning, representation learning, outlier detection, network/graph representation,  mulitmodal learning and AI in system software.
 
 News
 =======
