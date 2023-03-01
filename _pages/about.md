@@ -16,7 +16,7 @@ Research
 My research interests include machine learning, representation learning, outlier detection, network/graph representation,  mulitmodal learning and AI in system software.
 
 News
-=======
+========
 * One paper on multimodal fake news detection has beeen accepted by ICASSP 2023.
 * One paper on unsupervised network intrusion detection has been accepted by Computer & Security.
 * One paper on unsupervised time series anomaly detection has release the source code.
