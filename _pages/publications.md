@@ -22,8 +22,8 @@ author_profile: false
   * Hu, Liang, Qingkui Chen, Haiyan Zhao, **Songlei Jian**, Longbing Cao, and Jian Cao. "Neural Cross-Session Filtering: Next-Item Prediction Under Intra-and Inter-Session Context." IEEE Intelligent Systems (2018).
 
 * Conference papers
-  * Liwen Peng, **Songlei Jian**, Dongsheng Li, and  Siqi Shen. "MRML: Multimodal Rumor Detection by Deep Metric Learning." ICASSP 2023 (**CCF B**).[[Paper]](http://jiansonglei.github.io/files/icassp2023.pdf)
-  * Ning Liu, **Songlei Jian**, Dongsheng Li, and Hongzuo Xu. "Unsupervised Hierarchical Graph Pooling via Substructure-Sensitive Mutual Information Maximization." CIKM 2022 (**CCF B**).[[Paper]](http://jiansonglei.github.io/files/22CIKM_SMIP.pdf)
+  * Liwen Peng, **Songlei Jian\***, Dongsheng Li\*, and  Siqi Shen. "MRML: Multimodal Rumor Detection by Deep Metric Learning." ICASSP 2023 (**CCF B**).[[Paper]](http://jiansonglei.github.io/files/icassp2023.pdf)
+  * Ning Liu, **Songlei Jian\***, Dongsheng Li\*, and Hongzuo Xu. "Unsupervised Hierarchical Graph Pooling via Substructure-Sensitive Mutual Information Maximization." CIKM 2022 (**CCF B**).[[Paper]](http://jiansonglei.github.io/files/22CIKM_SMIP.pdf)
   * Hongguang Zhang,  Piotr Koniusz, **Songlei Jian**, Hongdong Li, and Philip H. S. Torr. "Rethinking Class Relations: Absolute-relative Supervised and Unsupervised Few-shot Learning." CVPR 2021 (**CCF A**). [[Paper]](http://jiansonglei.github.io/files/21CVPR.pdf)  
   * Hongzuo Xu,  Yijie Wang\*, **Songlei Jian\***, Zhenyu Huang, Yongjun Wang,  Ning Liu and Fei Li. "Beyond Outlier Detection: Outlier Interpretation  by Attention-Guided Triplet Deviation Network." WWW 2021 (**CCF A**). [[Paper]](http://jiansonglei.github.io/files/21WWW.pdf)  [[Code]](https://github.com/xuhongzuo/outlier-interpretation)
   * **Jian, Songlei**, Liang Hu, Longbing Cao and Kai Lu. "Representation Learning with Multiple Lipschitz-constrained Alignments on Partially-labeled Cross-domain Data." AAAI 2020 (**CCF A**).  [[Paper]](http://jiansonglei.github.io/files/20AAAI_MULAN.pdf)[Code]
