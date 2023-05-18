@@ -17,6 +17,7 @@ My research interests include machine learning, representation learning, outlier
 
 News
 ========
+* One paper on unsupervised anomaly detection has beeen accepted by ICML 2023.
 * One paper on multimodal fake news detection has beeen accepted by ICASSP 2023.
 * One paper on unsupervised network intrusion detection has been accepted by Computer & Security.
 * One paper on unsupervised time series anomaly detection has release the source code.
