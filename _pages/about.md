@@ -8,16 +8,14 @@ redirect_from:
   - /about.html
 ---
 
-I am an Associate Research Fellow with the College of Computer, National University of Defense Technology (NUDT). I was visiting the Advanced Analytics Institute, University of Technology Sydney (UTS) during 09/2016-09/2018 and working with Professor Longbing Cao. I got my PhD at NUDT in 06/2019 and my bachelor's degree at NUDT in 06/2013. 
+I am an Research Associate with the College of Computer, National University of Defense Technology (NUDT). I got my PhD at NUDT in 06/2019 and my bachelor's degree at NUDT in 06/2013. I was visiting the Advanced Analytics Institute, University of Technology Sydney (UTS) during 09/2016-09/2018. My research interests include machine learning, representation learning, outlier detection, network/graph representation,  mulitmodal learning and AI in system software. I have published more than 30 high-quality research papers in these areas, most of which were published at premier data science and AI conferences or journals, like AAAI, ICML, The ACM Web Conference, IJCAI, CIKM, IEEE TKDE and Computer & Security. I have generally served as a PC member at over 10 premier international conferences including AAAI, IJCAI and a reviewer for more than 10 prestigious journals including Machine Learning, IEEE TPAMI, TKDE, etc.
 
-Research
-========
+I am always seeking highly self-motivated students for PhD, Master by Research. Welcome to contact me!
 
-My research interests include machine learning, representation learning, outlier detection, network/graph representation,  mulitmodal learning and AI in system software.
 
 News
 ========
-* One paper on scale learning for unsupervised anomaly detection has beeen accepted by ICML 2023.
+* One paper on unsupervised anomaly detection has beeen accepted by ICML 2023.
 * One paper on multimodal fake news detection has beeen accepted by ICASSP 2023.
 * One paper on unsupervised network intrusion detection has been accepted by Computer & Security.
 * One paper on unsupervised time series anomaly detection has release the source code.
