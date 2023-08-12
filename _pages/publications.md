@@ -22,6 +22,8 @@ author_profile: true
   * Hu, Liang, Qingkui Chen, Haiyan Zhao, **Songlei Jian**, Longbing Cao, and Jian Cao. "Neural Cross-Session Filtering: Next-Item Prediction Under Intra-and Inter-Session Context." IEEE Intelligent Systems (2018).
 
 * Conference papers
+  * Xiaoda Xie,  **Songlei Jian**, Chenlin Huang, Fengyuan Yu, and Yujia Deng. "LogRep: Log-based Anomaly Detection by
+Representing both Semantic and Numeric Information in Raw Messages." ISSRE 2023 (**CCF B**). [[Paper]](http://jiansonglei.github.io/files/LogRep_ISSRE.pdf) 
   * Hongzuo Xu,  Yijie Wang, Juhui Wei, **Songlei Jian**, Yizhou Li, and Ning Liu. "Fascinating Supervisory Signals and Where to Find Them: Deep Anomaly Detection with Scale Learning." ICML 2023 (**CCF A**). [[Paper]](http://jiansonglei.github.io/files/icml2023.pdf)  [[Code]](https://github.com/xuhongzuo/scale-learning)
   * Liwen Peng, **Songlei Jian\***, Dongsheng Li\*, and  Siqi Shen. "MRML: Multimodal Rumor Detection by Deep Metric Learning." ICASSP 2023 (**CCF B**).[[Paper]](http://jiansonglei.github.io/files/icassp2023.pdf)  [[Code]](https://github.com/plw-study/MRML)
   * Ning Liu, **Songlei Jian\***, Dongsheng Li\*, and Hongzuo Xu. "Unsupervised Hierarchical Graph Pooling via Substructure-Sensitive Mutual Information Maximization." CIKM 2022 (**CCF B**).[[Paper]](http://jiansonglei.github.io/files/22CIKM_SMIP.pdf)
