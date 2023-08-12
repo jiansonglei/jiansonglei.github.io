@@ -23,6 +23,7 @@ Services
   * IEEE Transactions on Neural Networks and Learning Systems (TNNLS)
   * ACM Transactions on Multimedia Computing, Communications, and Applications (TOMM)
   * IEEE Intelligent Systems
+  * Artificial Intelligence Review
   * International Journal of Data Science and Analytics (JDSA)
 
 
