@@ -13,8 +13,10 @@ redirect_from:
 Services
 ======
 * PC Members
-  * AAAI 2019-2022 
-  * PAKDD 2018
+  * AAAI 
+  * IJCAI
+  * ICASSP
+  * PAKDD 
   * IEEE DSC workshop on VAAL 2018
 * Reviewer
   * IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI)
@@ -22,9 +24,6 @@ Services
   * ACM Transactions on Multimedia Computing, Communications, and Applications (TOMM)
   * IEEE Intelligent Systems
   * International Journal of Data Science and Analytics (JDSA)
-* External Reviewer
-  * IJCAI 2018
-  * ICDM 2018
 
 
 
