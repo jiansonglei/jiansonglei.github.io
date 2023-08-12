@@ -13,6 +13,8 @@ My research interests include machine learning, representation learning, outlier
 
 I am always seeking highly self-motivated students for PhD, Master by Research. Welcome to contact me!
 
+Email: jiansonglei@nudt.edu.cn
+
 
 News
 ========
