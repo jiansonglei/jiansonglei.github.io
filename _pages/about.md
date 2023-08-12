@@ -11,7 +11,9 @@ I am a research associate with the College of Computer, National University of D
 
 My research interests include machine learning, representation learning, outlier detection, network/graph representation,  mulitmodal learning and AI in system software. I have published more than 30 high-quality research papers in these areas, most of which were published at premier data science and AI conferences or journals, like AAAI, ICML, The ACM Web Conference, IJCAI, CIKM, IEEE TKDE and Computer & Security. I have generally served as a PC member at over 10 premier international conferences including AAAI, IJCAI and a reviewer for more than 10 prestigious journals including Machine Learning, IEEE TPAMI, TKDE, etc.
 
-I am always seeking highly self-motivated students for PhD, Master by Research. Welcome to contact me!
+I am always seeking highly self-motivated students for PhD, Master by Research. 
+
+Welcome to contact me!
 
 Email: jiansonglei@nudt.edu.cn
 
