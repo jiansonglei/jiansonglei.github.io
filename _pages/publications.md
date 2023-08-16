@@ -12,6 +12,7 @@ author_profile: true
 
 {% include base_path %}
 * Journal papers
+  * Hongzuo Xu, Yijie Wang, Guansong Pang, **Songlei Jian**, Ning Liu, Yongjun Wang. “RoSAS: Deep semi-supervised anomaly detection with contamination-resilient continuous supervision” Information Processing & Management. 2023 (CCF B). [[Paper]](https://arxiv.org/abs/2307.13239) [[Code]](https://github.com/xuhongzuo/rosas)
   * Hongzuo Xu,  Yijie Wang, **Songlei Jian**, Qing Liao, Yongjun Wang, and Guansong Pang. "Calibrated One-class Classification for Unsupervised Time Series Anomaly Detection."  [[Paper]](https://arxiv.org/abs/2207.12201)  [[Code]](https://github.com/xuhongzuo/couta)
   * Wang, Wei, **Songlei Jian**\*, Yusong Tan\*, Qingbo Wu, and Chenlin Huang. "Robust Unsupervised Network Intrusion Detection with Self-supervised Masked Context Reconstruction." Computers & Security (2023) (**CCF B**) [[Paper]](http://jiansonglei.github.io/files/22RobustIDS.pdf) 
   * Ning Liu, **Songlei Jian**\*, Dongsheng Li\*, Yiming Zhang, Zhiquan Lai and Hongzuo Xu. "Hierarchical Adaptive Pooling by Capturing High-order Dependency for Graph Representation Learning." IEEE Transactions on Knowledge and Data Engineering  (2021) (**CCF A**) [[Paper]](http://jiansonglei.github.io/files/HAP2021.pdf)
