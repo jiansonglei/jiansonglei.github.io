@@ -20,6 +20,7 @@ Email: jiansonglei@nudt.edu.cn
 
 News
 ========
+* One paper on multimodal fake news detection has been accepted by Information Processing & Management.
 * One paper on log anomaly detection has been accepted by ISSRE 2023.
 * One paper on semi-supervised anomaly detection has beeen accepted by Information Processing & Management.
 * One paper on unsupervised anomaly detection has beeen accepted by ICML 2023.
