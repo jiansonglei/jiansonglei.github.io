@@ -12,6 +12,7 @@ author_profile: true
 
 {% include base_path %}
 * Journal papers
+  * Hongzuo Xu, Yijie Wang, Songlei Jian, Qing Liao, Yongjun Wang and Guansong Pang."Calibrated One-class Classification for Unsupervised Time Series Anomaly Detection." IEEE Transactions on Knowledge and Data Engineering  (2024) (**CCF A**).[[Paper]](http://jiansonglei.github.io/files/24COUTA.pdf)
   * Liwen Peng, **Songlei Jian\***, Zhigang Kan, Linbo Qiao, and Dongsheng Li. "Not all fake news is semantically similar: Contextual semantic representation learning for multimodal fake news detection." Information Processing and Management 2023 (**CCF B**).[[Paper]](http://jiansonglei.github.io/files/IPM_FND.pdf)  [[Code]](https://github.com/plw-study/CSFND)
   * Hongzuo Xu, Yijie Wang, Guansong Pang, **Songlei Jian**, Ning Liu, Yongjun Wang. “RoSAS: Deep semi-supervised anomaly detection with contamination-resilient continuous supervision” Information Processing & Management. 2023 (**CCF B**). [[Paper]](https://arxiv.org/abs/2307.13239) [[Code]](https://github.com/xuhongzuo/rosas)
   * Hongzuo Xu,  Yijie Wang, **Songlei Jian**, Qing Liao, Yongjun Wang, and Guansong Pang. "Calibrated One-class Classification for Unsupervised Time Series Anomaly Detection."  [[Paper]](https://arxiv.org/abs/2207.12201)  [[Code]](https://github.com/xuhongzuo/couta)
@@ -24,6 +25,7 @@ author_profile: true
   * Hu, Liang, Qingkui Chen, Haiyan Zhao, **Songlei Jian**, Longbing Cao, and Jian Cao. "Neural Cross-Session Filtering: Next-Item Prediction Under Intra-and Inter-Session Context." IEEE Intelligent Systems (2018).
 
 * Conference papers
+  * Yusen Zhang$^{1}$, Yusong Tan$^{1}$, **Songlei Jian\***, Qingbo Wu, Kenli Li."DGLP: Incorporating Orientation Information for Enhanced Link Prediction in Directed Graphs." ICASSP 2024(Best Student Paper Award!**CCF B** )[[Paper]](http://jiansonglei.github.io/files/24ICASSP.pdf) 
   * Xiaoda Xie$^{1}$,  **Songlei Jian**$^{1}$, Chenlin Huang, Fengyuan Yu, and Yujia Deng. "LogRep: Log-based Anomaly Detection by
 Representing both Semantic and Numeric Information in Raw Messages." ISSRE 2023 (**CCF B**). [[Paper]](http://jiansonglei.github.io/files/LogRep_ISSRE.pdf) 
   * Hongzuo Xu,  Yijie Wang, Juhui Wei, **Songlei Jian**, Yizhou Li, and Ning Liu. "Fascinating Supervisory Signals and Where to Find Them: Deep Anomaly Detection with Scale Learning." ICML 2023 (**CCF A**). [[Paper]](http://jiansonglei.github.io/files/icml2023.pdf)  [[Code]](https://github.com/xuhongzuo/scale-learning)
