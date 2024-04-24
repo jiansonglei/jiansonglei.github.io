@@ -20,6 +20,8 @@ Email: jiansonglei@nudt.edu.cn
 
 News
 ========
+* One paper on unsupervised time series anomaly detection has been accepted by TKDE.
+* The paper accepted by ICASSP 2024 has be selected as one of the CASSP2024 BesStudent Paper Award winners!
 * One paper on multimodal fake news detection has been accepted by Information Processing & Management.
 * One paper on log anomaly detection has been accepted by ISSRE 2023.
 * One paper on semi-supervised anomaly detection has beeen accepted by Information Processing & Management.
