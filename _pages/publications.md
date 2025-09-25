@@ -14,7 +14,7 @@ author_profile: true
 
 * Journal papers
   
-  * Hongzuo Xu, Yijie Wang, **Songlei Jian**, Qing Liao, Yongjun Wang and Guansong Pang."Calibrated One-class Classification for Unsupervised Time Series Anomaly Detection." IEEE Transactions on Knowledge and Data Engineering  (2024) (**CCF A**).[[Paper]](http://jiansonglei.github.io/files/24COUTA.pdf) [[Code]](https://github.com/xuhongzuo/couta) (Highly Cited Paper)
+  * Hongzuo Xu, Yijie Wang, **Songlei Jian**, Qing Liao, Yongjun Wang and Guansong Pang."Calibrated One-class Classification for Unsupervised Time Series Anomaly Detection." IEEE Transactions on Knowledge and Data Engineering  (2024) (**CCF A**).[[Paper]](http://jiansonglei.github.io/files/24COUTA.pdf) [[Code]](https://github.com/xuhongzuo/couta) [**Highly Cited Paper**]
   * Liwen Peng, **Songlei Jian\***, Zhigang Kan, Linbo Qiao, and Dongsheng Li. "Not all fake news is semantically similar: Contextual semantic representation learning for multimodal fake news detection." Information Processing and Management 2023 (**CCF B**).[[Paper]](http://jiansonglei.github.io/files/IPM_FND.pdf)  [[Code]](https://github.com/plw-study/CSFND)
   * Hongzuo Xu, Yijie Wang, Guansong Pang, **Songlei Jian**, Ning Liu, Yongjun Wang. “RoSAS: Deep semi-supervised anomaly detection with contamination-resilient continuous supervision” Information Processing & Management. 2023 (**CCF B**). [[Paper]](https://arxiv.org/abs/2307.13239) [[Code]](https://github.com/xuhongzuo/rosas)
   * Wang, Wei, **Songlei Jian**\*, Yusong Tan\*, Qingbo Wu, and Chenlin Huang. "Robust Unsupervised Network Intrusion Detection with Self-supervised Masked Context Reconstruction." Computers & Security (2023) (**CCF B**) [[Paper]](http://jiansonglei.github.io/files/22RobustIDS.pdf) 
