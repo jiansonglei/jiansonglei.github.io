@@ -1,15 +1,19 @@
 ---
+
 permalink: /
 title: "About me"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
-  - /about/
-  - /about.html
+
+- /about/
+- /about.html
+
 ---
+
 I am a research associate with the College of Computer, National University of Defense Technology (NUDT). I got my PhD at NUDT in 06/2019 and my bachelor's degree at NUDT in 06/2013. I was visiting the Advanced Analytics Institute, University of Technology Sydney (UTS) during 09/2016-09/2018. 
 
-My research interests include machine learning, representation learning, outlier detection, mulitmodal learning and system software or optmization for DL models. I have published more than 30 high-quality research papers in these areas, most of which were published at premier data science and AI conferences or journals, like AAAI, ICML, The ACM Web Conference, IJCAI, CIKM, IEEE TKDE and Computer & Security. I have generally served as a PC member at over 10 premier international conferences including AAAI, IJCAI and a reviewer for more than 10 prestigious journals including IEEE TPAMI, IEEE TKDE, IEEE TNNLS, IPM etc.
+My research interests include AI algorithms，LLM system optimization, AI security and safety. I have published more than 30 high-quality research papers in these areas, most of which were published at premier data science and AI conferences or journals, like AAAI, ICML, The ACM Web Conference, IJCAI, CIKM, IEEE TKDE and Computer & Security. I have generally served as a PC member at over 10 premier international conferences including AAAI, IJCAI and a reviewer for more than 10 prestigious journals including IEEE TPAMI, IEEE TKDE, IEEE TNNLS, IPM etc.
 
 I am always seeking highly self-motivated students for PhD, Master by Research. 
 
@@ -17,9 +21,11 @@ Welcome to contact me!
 
 Email: jiansonglei@nudt.edu.cn
 
-
 News
 ========
+
+* One paper on jailbreak has published by EMNLP 2025.
+* One paper on backdoor defense has published by ACL 2025.
 * Two papers on opmizing CNN inference optimization and memory management on CPUs have been published.
 * One paper on unsupervised time series anomaly detection has been accepted by TKDE.
 * The paper accepted by ICASSP 2024 has be selected as one of the **ICASSP 2024 Best Student Papers**!
@@ -39,7 +45,3 @@ News
 * Two papers on network representation and recommender system have been accepted by AAAI 2019.
 * Our paper on categorical data representation was accepted by TKDE.
 * We presented tutorial on PAKDD 2018 at Melbourne, Australia.
-
-
-
-
