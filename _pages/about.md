@@ -1,5 +1,4 @@
 ---
-
 permalink: /
 title: "About me"
 excerpt: "About me"
@@ -25,6 +24,7 @@ News
 ========
 
 * One paper on jailbreak has published by EMNLP 2025.
+* One paper on few-shot anomaly detection has published by CIKM 2025.
 * One paper on backdoor defense has published by ACL 2025.
 * Two papers on opmizing CNN inference optimization and memory management on CPUs have been published.
 * One paper on unsupervised time series anomaly detection has been accepted by TKDE.
