@@ -23,6 +23,8 @@ Email: jiansonglei@nudt.edu.cn
 News
 ========
 
+* One paper on jailbreak defense has published by ACL 2026.
+* Three papers on speculative decoding, backdoor and log anomaly detection have published by ICASSP 2026.
 * One paper on jailbreak has published by EMNLP 2025.
 * One paper on few-shot anomaly detection has published by CIKM 2025.
 * One paper on backdoor defense has published by ACL 2025.
