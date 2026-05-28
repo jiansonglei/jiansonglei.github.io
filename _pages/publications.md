@@ -27,6 +27,7 @@ author_profile: true
 
 * Conference papers
   
+  * Xi Wang, **Sonlei Jian***, Shasha Li*, Xiaopeng Li, Zhaoye Li, Bin Ji, Baosheng Wang, Jie Yu. JPU: Bridging Jailbreak Defense and Unlearning via On-Policy Path Rectification. ACL 2026. (**CCF A**)
   * Xi Wang, **Sonlei Jian\***, Shasha Li\*, Xiaopeng Li, Bin Ji, Jun Ma, Xiaodong Liu, Jing Wang, Feilong Bao, Jianfeng Zhang, Baosheng Wang, Jie Yu，Stand on The Shoulders of Giants: Building JailExpert from Previous Attack Experience. EMNLP 2025.(**CCF B**)
   * Zhisheng Lv,  Jianfeng Zhang, **Sonlei Jian\***, Chenlin Huang, Hongguang Zhang, Guansong Pang, Zhong Liu. MetaCAN: Improving Generalizability of Few-shot Anomaly Detection with Meta-learning. CIKM 2025.(**CCF B**)
   * Ruyi Zhang, **Sonlei Jian***, **Yusong Tan\***, Heng Gao, Haifang Zhou, Kai Lu. BadWindtunnel: Defending Backdoor in High-noise Simulated Training with Confidence Variance. ACL 2025(**CCF A**)[[Paper]](http://jiansonglei.github.io/files/25ACL.pdf)
